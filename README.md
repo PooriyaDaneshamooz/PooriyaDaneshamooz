@@ -1,0 +1,5 @@
+-👋 Hi, I’m Pooriya Daneshamooz
+-👀 I’m interested in Designing Electronic Circuits, Optical Communications, Machine Learning, IOT, AI, and ...
+-🌱 I’m currently learning IOT & Python
+-💞️ I’m looking to collaborate on Sturtups & private companies
+-📫 You can reach me through @Pooriya_dnz in Telegram
